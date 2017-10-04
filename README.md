@@ -2,4 +2,5 @@
 linebotをとりあえず動かす。
 
 ## 使い方(?)
-herokuにデプロイ！  
+環境変数(ChannelSecretとAccessTokenキー)を設定  
+heroku(など)にデプロイ！  
